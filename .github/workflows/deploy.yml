@@ -20,8 +20,13 @@ jobs:
           path: default
       - name: Copy existing results
         run: cp -r results/. default/_data
-      - name: Install npm dependencies
-        run: npm install
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+        working-directory: default
+      - name: Install dependencies
+        run: npm ci
         working-directory: default
       - name: Build speedlify
         run: |
