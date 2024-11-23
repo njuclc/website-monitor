@@ -13,9 +13,7 @@ jobs:
       - name: Checkout results
         id: checkout-results
         uses: actions/checkout@v4
-        continue-on-error: true
         with:
-          ref: refs/heads/results
           path: results
       - name: Checkout speedlify
         uses: actions/checkout@v4
