@@ -12,13 +12,13 @@ jobs:
     steps:
       - name: Checkout results
         id: checkout-results
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         continue-on-error: true
         with:
           ref: refs/heads/results
           path: results
       - name: Checkout speedlify
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           path: default
       - name: Copy existing results
@@ -31,12 +31,12 @@ jobs:
         run: npm run test-pages
         working-directory: default
       - name: Upload results artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: results
           path: default/_data/results
       - name: Upload results-last-runs artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: results-last-runs.json
           path: default/_data/results-last-runs.json
