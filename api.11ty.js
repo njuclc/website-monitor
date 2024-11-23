@@ -1,6 +1,6 @@
 const getObjectKey = require("./utils/getObjectKey.js");
 
-class ApiEntry { }
+function ApiEntry () {}
 
 ApiEntry.prototype.data = async function data(params) {
 	return {
