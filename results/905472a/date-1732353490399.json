@@ -1,0 +1,67 @@
+{
+  "url": "https://www.missoma.com/",
+  "requestedUrl": "https://www.missoma.com/",
+  "timestamp": 1732353915236,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 6,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.43,
+    "accessibility": 0.74,
+    "bestPractices": 0.93,
+    "seo": 0.79,
+    "total": 289
+  },
+  "firstContentfulPaint": 2943.06325,
+  "firstMeaningfulPaint": 3019.1668500000005,
+  "speedIndex": 10422.880544711687,
+  "largestContentfulPaint": 4053.0176,
+  "totalBlockingTime": 4790.012549999994,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 20015.02601640013,
+  "maxPotentialFirstInputDelay": 1284.9999999999927,
+  "timeToFirstByte": 12.149,
+  "weight": {
+    "summary": "338 requests • 3.5 MiB",
+    "total": 3678825,
+    "image": 1413440,
+    "imageCount": 181,
+    "script": 1157827,
+    "scriptCount": 56,
+    "document": 118925,
+    "font": 90788,
+    "fontCount": 3,
+    "stylesheet": 13122,
+    "stylesheetCount": 7,
+    "thirdParty": 1950950,
+    "thirdPartyCount": 27
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 5,
+    "-weight.document": 2,
+    "+weight.document": 5,
+    "-weight.script": 2,
+    "+weight.script": 5,
+    "-weight.image": 3,
+    "+weight.image": 4,
+    "-weight.font": 2,
+    "+weight.font": 4,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 3716,
+    "violations": 293
+  }
+}

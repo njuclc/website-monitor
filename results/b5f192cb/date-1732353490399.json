@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gorjana.com/em-cgi/btag/",
+  "requestedUrl": "https://www.gorjana.com/",
+  "timestamp": 1732353620090,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.96,
+    "bestPractices": 0.52,
+    "seo": 0.93,
+    "total": 276
+  },
+  "firstContentfulPaint": 1541.9624999999999,
+  "firstMeaningfulPaint": 1541.9624999999999,
+  "speedIndex": 14543.695282058212,
+  "largestContentfulPaint": 8606.73300748443,
+  "totalBlockingTime": 3601,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 34888.16273391416,
+  "maxPotentialFirstInputDelay": 437,
+  "timeToFirstByte": 10.389,
+  "weight": {
+    "summary": "480 requests • 5.1 MiB",
+    "total": 5317047,
+    "image": 1027563,
+    "imageCount": 58,
+    "script": 2503395,
+    "scriptCount": 125,
+    "document": 172801,
+    "font": 162226,
+    "fontCount": 5,
+    "stylesheet": 63247,
+    "stylesheetCount": 19,
+    "thirdParty": 3087876,
+    "thirdPartyCount": 62
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 3,
+    "-weight.document": 5,
+    "+weight.document": 2,
+    "-weight.script": 5,
+    "+weight.script": 2,
+    "-weight.image": 2,
+    "+weight.image": 5,
+    "-weight.font": 4,
+    "+weight.font": 2,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 640,
+    "violations": 13
+  }
+}

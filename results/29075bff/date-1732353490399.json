@@ -1,0 +1,67 @@
+{
+  "url": "https://enroutejewelry.com/products/athena-bracelet?collection=athena-bracelet",
+  "requestedUrl": "https://enroutejewelry.com/products/athena-bracelet?collection=athena-bracelet",
+  "timestamp": 1732354498407,
+  "ranks": {
+    "hundos": 2,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.9,
+    "bestPractices": 0.56,
+    "seo": 0.58,
+    "total": 235
+  },
+  "firstContentfulPaint": 2603.855,
+  "firstMeaningfulPaint": 3878.129,
+  "speedIndex": 28236.5664631981,
+  "largestContentfulPaint": 23509.618,
+  "totalBlockingTime": 5322,
+  "cumulativeLayoutShift": 0.008580021780870941,
+  "timeToInteractive": 62253.23425,
+  "maxPotentialFirstInputDelay": 1387,
+  "timeToFirstByte": 13.108999999999998,
+  "weight": {
+    "summary": "369 requests • 16.1 MiB",
+    "total": 16845169,
+    "image": 12189345,
+    "imageCount": 81,
+    "script": 2061386,
+    "scriptCount": 94,
+    "document": 203881,
+    "font": 305818,
+    "fontCount": 16,
+    "stylesheet": 621714,
+    "stylesheetCount": 22,
+    "thirdParty": 4425123,
+    "thirdPartyCount": 35
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 4,
+    "-weight.document": 1,
+    "+weight.document": 4,
+    "-weight.script": 4,
+    "+weight.script": 1,
+    "-weight.image": 1,
+    "+weight.image": 4,
+    "-weight.font": 4,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 1806,
+    "violations": 51
+  }
+}

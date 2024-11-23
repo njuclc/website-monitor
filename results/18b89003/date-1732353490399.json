@@ -1,0 +1,67 @@
+{
+  "url": "https://mejuri.com/eu/en/",
+  "requestedUrl": "https://mejuri.com/eu/en/",
+  "timestamp": 1732353824582,
+  "ranks": {
+    "hundos": 6,
+    "performance": 6,
+    "accessibility": 3,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.22,
+    "accessibility": 0.86,
+    "bestPractices": 0.52,
+    "seo": 0.83,
+    "total": 246
+  },
+  "firstContentfulPaint": 6650.697599999998,
+  "firstMeaningfulPaint": 6725.774199999998,
+  "speedIndex": 14220.406241006804,
+  "largestContentfulPaint": 26826.171800000004,
+  "totalBlockingTime": 7719.500000000004,
+  "cumulativeLayoutShift": 0.11334747808019816,
+  "timeToInteractive": 31520.97740000001,
+  "maxPotentialFirstInputDelay": 2258.0000000000036,
+  "timeToFirstByte": 505.39899999999994,
+  "weight": {
+    "summary": "259 requests • 6.2 MiB",
+    "total": 6457959,
+    "image": 3112378,
+    "imageCount": 67,
+    "script": 2777584,
+    "scriptCount": 108,
+    "document": 168162,
+    "font": 124691,
+    "fontCount": 6,
+    "stylesheet": 24877,
+    "stylesheetCount": 6,
+    "thirdParty": 6298803,
+    "thirdPartyCount": 41
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 2,
+    "-weight.document": 4,
+    "+weight.document": 3,
+    "-weight.script": 6,
+    "+weight.script": 1,
+    "-weight.image": 5,
+    "+weight.image": 2,
+    "-weight.font": 3,
+    "+weight.font": 3,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 407,
+    "violations": 6
+  }
+}

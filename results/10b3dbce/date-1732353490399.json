@@ -1,0 +1,67 @@
+{
+  "url": "https://enroutejewelry.com/collections/holiday-gift-guide",
+  "requestedUrl": "https://enroutejewelry.com/collections/holiday-gift-guide",
+  "timestamp": 1732354569549,
+  "ranks": {
+    "hundos": 3,
+    "performance": 1,
+    "accessibility": 3,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.9,
+    "bestPractices": 0.52,
+    "seo": 0.58,
+    "total": 232
+  },
+  "firstContentfulPaint": 2489.532,
+  "firstMeaningfulPaint": 3914.532,
+  "speedIndex": 50293.93460424511,
+  "largestContentfulPaint": 60587.1315,
+  "totalBlockingTime": 7476.499999999978,
+  "cumulativeLayoutShift": 0.007210676052553486,
+  "timeToInteractive": 95768.50349999999,
+  "maxPotentialFirstInputDelay": 2174,
+  "timeToFirstByte": 14.765999999999998,
+  "weight": {
+    "summary": "369 requests • 30.0 MiB",
+    "total": 31492057,
+    "image": 27155634,
+    "imageCount": 105,
+    "script": 1830915,
+    "scriptCount": 85,
+    "document": 209109,
+    "font": 292198,
+    "fontCount": 14,
+    "stylesheet": 601325,
+    "stylesheetCount": 19,
+    "thirdParty": 4278621,
+    "thirdPartyCount": 33
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 2,
+    "-weight.document": 2,
+    "+weight.document": 3,
+    "-weight.script": 1,
+    "+weight.script": 4,
+    "-weight.image": 3,
+    "+weight.image": 2,
+    "-weight.font": 2,
+    "+weight.font": 3,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 1334,
+    "violations": 112
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://enroutejewelry.com/collections/bestseller",
+  "requestedUrl": "https://enroutejewelry.com/collections/bestseller",
+  "timestamp": 1732354176559,
+  "ranks": {
+    "hundos": 4,
+    "performance": 4,
+    "accessibility": 4,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.28,
+    "accessibility": 0.9,
+    "bestPractices": 0.52,
+    "seo": 0.58,
+    "total": 228
+  },
+  "firstContentfulPaint": 3575.326,
+  "firstMeaningfulPaint": 3575.326,
+  "speedIndex": 48907.58793700518,
+  "largestContentfulPaint": 53453.826,
+  "totalBlockingTime": 5671.5,
+  "cumulativeLayoutShift": 0.0026155851151883898,
+  "timeToInteractive": 89025.0465,
+  "maxPotentialFirstInputDelay": 1201.0000000000073,
+  "timeToFirstByte": 13.125999999999998,
+  "weight": {
+    "summary": "377 requests • 27.6 MiB",
+    "total": 28961078,
+    "image": 24600468,
+    "imageCount": 107,
+    "script": 1844275,
+    "scriptCount": 89,
+    "document": 215631,
+    "font": 292192,
+    "fontCount": 14,
+    "stylesheet": 607276,
+    "stylesheetCount": 22,
+    "thirdParty": 4278292,
+    "thirdPartyCount": 33
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 3,
+    "-weight.document": 4,
+    "+weight.document": 1,
+    "-weight.script": 2,
+    "+weight.script": 3,
+    "-weight.image": 2,
+    "+weight.image": 3,
+    "-weight.font": 1,
+    "+weight.font": 4,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 1637,
+    "violations": 114
+  }
+}
