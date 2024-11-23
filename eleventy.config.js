@@ -83,6 +83,10 @@ function getLighthouseTotal(entry) {
 }
 
 module.exports = function(eleventyConfig) {
+	console.log(">>>>>", eleventyConfig)
+	console.log(">>>>>", eleventyConfig.addFilter)
+	console.log(">>>>>", typeof eleventyConfig.addFilter)
+
 	eleventyConfig.addFilter("shortHash", shortHash);
 	eleventyConfig.setServerOptions({
 		domDiff: false
